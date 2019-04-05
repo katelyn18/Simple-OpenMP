@@ -1,15 +1,7 @@
 /*
-Katelyn Jaing
-Hector Medina
-CPSC 479-01
-Homework 4: 
-	Problem 1: initialize an array of size 32 to 0
-	Problem 2: add i to array[ i ]
-	Problem 3: add all even numbers together
-
-gcc -fopenmp <filename>
-export OMP_NUM_THREADS=8
-./a.out
+Problem 1: initialize an array of size 32 to 0
+Problem 2: add i to array[ i ]
+Problem 3: add all even numbers together
 */
 
 #include <stdio.h>
